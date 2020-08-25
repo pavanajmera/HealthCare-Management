@@ -31,19 +31,3 @@ CONFIDENTIAL CREDENTIALS:
 	* edit mode password:				allow_edit
 	
 	* doctor/ medical lab scientist access code:	access_auth
-
-NOTE:
-
-Here's the link to a screen cast (video) of the working of this app: https://drive.google.com/file/d/1DXUKgfrbsullwRjFxDKvNSSHKqBZ2Xur/view?usp=sharing
-
-You can use it for your reference as well. Note that the video is for an older version, but there are not a lot of changes in the updated version. 
-
-The changes in the updated version include:
-
-	* Edit mode password - this is to ensure that only the people who are authorised to add, delete and update the records can do so. Viewing data doesn't require this second level of 
-	authentication.
-
-	* Doctor/ Medical Lab Scientist access code - this is to ensure that only doctors and medical lab scientists are able to add, delete and update prescription and medical test 
-	details. Viewing prescriptions and medical tests of a patient doesn't require this second level of authentication.
-
-	* The fucntionality of 'Listing doctors of a particular department using the department unique ID' has been moved from the Doctor module to the Department module.
