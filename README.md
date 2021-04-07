@@ -26,12 +26,12 @@ Steps:
 	(Running this command will open the app in a new tab in your default browser automatically; you don't need internet connection to work with this app)
 
 CONFIDENTIAL CREDENTIALS:
-  For password Comment on page or DM 
-	* home screen user password:			
+
+	* home screen user password:			15081812
 	
-	* edit mode password:				
+	* edit mode password:				allow_edit
 	
-	* doctor/ medical lab scientist access code:	
+	* doctor/ medical lab scientist access code:	access_auth	
 
 NOTE:
 
