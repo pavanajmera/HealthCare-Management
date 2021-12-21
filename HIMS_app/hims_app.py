@@ -169,6 +169,10 @@ def home():
         departments()
 
 st.title('HEALTHCARE INFORMATION MANAGEMENT SYSTEM')
+st.write('*Home screen user password: 15081812 *')
+st.write('*Enter edit mode password: allow_edit*')
+st.write('*Enter doctor/medical lab scientist access code: access_auth*')
+
 password = st.sidebar.text_input('Enter password', type = 'password')       # user password authentication
 if password == config.password:
     st.sidebar.success('Verified')
